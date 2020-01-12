@@ -1,0 +1,47 @@
+.btn-group.selection {
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.head-list form{
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.list-group {
+    clear: both;
+    position: relative;
+}
+
+.head-list {
+    padding: 10px;
+}
+
+.list-note {
+    border: 1px solid grey;
+    padding: 5px 10px;
+}
+
+.list-note:hover {
+    background-color: cyan;
+}
+
+.note-detail {
+    width: 50%;
+    position: absolute;
+    left: 30%;
+    border: 1px solid grey;
+    padding: 10px 20px;
+}
+
+.list-group.btn-group {
+    position: absolute;
+    left: -50px;
+    margin: 0 10px;
+}
+
+p.alert-note {
+    background-color: green;
+}
